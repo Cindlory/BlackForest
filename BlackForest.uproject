@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FBC0660C-4D15-7430-2D49-74ACEF1CCAA8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BlackForest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
